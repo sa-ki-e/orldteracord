@@ -4,7 +4,7 @@
 
 ### サイトテーマ
 お寺好きが見て癒されるような寺院や仏像などの写真を記録する、お寺(tera)の記録(record)サイト。
-![image](https://user-images.githubusercontent.com/98303399/161361799-c9cddab4-8f21-4b23-988c-e47af5228774.jpg)
+![image](https://user-images.githubusercontent.com/98303399/161361885-f4f22fa2-dbb4-4837-a8a0-6e257223f7c6.png)
 
 ### テーマを選んだ理由
 コロナ禍でなかなかお寺へ行けなくなってしまったので、見て癒されるサイトを作りたいと思いました。  
