@@ -4,7 +4,6 @@
 
 ### サイトテーマ
 お寺好きが見て癒されるような寺院や仏像などの写真を記録する、お寺(tera)の記録(record)サイト。
-![image](https://user-images.githubusercontent.com/98303399/161361885-f4f22fa2-dbb4-4837-a8a0-6e257223f7c6.png)
 ![image](https://user-images.githubusercontent.com/98303399/161362142-e2e37e6b-3fec-4794-82bc-977bbcfa1d01.png)
 ![image](https://user-images.githubusercontent.com/98303399/161362146-5aa24f0c-377e-46ea-bab3-9526e5fab1d4.png)
 
